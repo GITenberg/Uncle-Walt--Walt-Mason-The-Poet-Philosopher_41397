@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '25494'
     url: http://www.gutenberg.org/2009/agents/25494
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41397#Uncle-Walt--Walt-Mason-The-Poet-Philosopher
 gutenberg_issued: '2012-11-18'
 gutenberg_type: Text
 identifiers:
