@@ -1,0 +1,27 @@
+_repo: Uncle-Walt--Walt-Mason-The-Poet-Philosopher_41397
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41397-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Mason, Walt
+    birthdate: 1862
+    deathdate: 1939
+    gutenberg_agent_id: '25494'
+    url: http://www.gutenberg.org/2009/agents/25494
+description: ''
+gutenberg_issued: '2012-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41397'
+  lccn: '10026761'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Poetry'
+title: Uncle Walt [Walt Mason], the Poet Philosopher
+url: http://www.gutenberg.org/ebooks/41397
